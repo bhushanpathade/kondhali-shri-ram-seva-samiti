@@ -64,7 +64,7 @@
       <td>3</td>
       <td>शिवजी नागदे</td>
       <td>  कोषाध्यक्ष</td>
-      <td>75093 26908</td>
+      <td>7509326908</td>
     </tr>
   </table>
 </section>
@@ -95,13 +95,69 @@
     पता: कोंढाली, जिला पांढुर्णा<br>
     मोबाइल:6263387601<br>
     ईमेल: __________
-  whatsApp Follow this link to join my WhatsApp group: https://chat.whatsapp.com/IMV78CmMzeSDSA4GxkfVlC 
+  whatsApp link https://chat.whatsapp.com/IMV78CmMzeSDSA4GxkfVlC 
   </p>
 </section>
 
 <footer>
   <p>© 2025 कोंढाली श्री राम सेवा समिती | सर्व अधिकार सुरक्षित</p>
 </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<title>ऑनलाइन चंदा भुगतान</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#f5f5f5;
+    margin:0;
+    padding:0;
+}
+.container{
+    max-width:400px;
+    margin:30px auto;
+    background:#ffffff;
+    padding:20px;
+    text-align:center;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+h2{
+    color:#b30000;
+}
+img{
+    width:250px;
+    margin:15px 0;
+}
+.note{
+    font-size:14px;
+    color:#555;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h2>चंदा ऑनलाइन भुगतान</h2>
+
+    <!-- QR CODE IMAGE -->
+    <img src="qr.png" alt="UPI QR Code">
+
+    <p class="note">
+        कृपया PhonePe / Google Pay / Paytm से QR स्कैन कर भुगतान करें।
+    </p>
+
+    <p class="note">
+        भुगतान के बाद स्क्रीनशॉट समिति को भेजें।
+    </p>
+</div>
 
 </body>
 </html>
