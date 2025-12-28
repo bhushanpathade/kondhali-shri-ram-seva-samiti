@@ -50,21 +50,21 @@
     </tr>
     <tr>
       <td>1</td>
-      <td>__________</td>
-      <td> गोलू पठाडे अध्यक्ष</td>
-      <td>__________</td>
+      <td> गोलू पठाडे  </td>
+      <td> अध्यक्ष</td>
+      <td>9340706617</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>__________</td>
-      <td> किशोर साहू सचिव</td>
-      <td>__________</td>
+      <td>किशोर साहू</td>
+      <td>  सचिव</td>
+      <td>6263387601</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>__________</td>
-      <td> शिवजी नागदे कोषाध्यक्ष</td>
-      <td>__________</td>
+      <td>शिवजी नागदे</td>
+      <td>  कोषाध्यक्ष</td>
+      <td>75093 26908</td>
     </tr>
   </table>
 </section>
@@ -92,9 +92,10 @@
 <section id="contact">
   <h2>संपर्क करें</h2>
   <p>
-    पता: कोंढाली, जिला _______<br>
-    मोबाइल: __________<br>
+    पता: कोंढाली, जिला पांढुर्णा<br>
+    मोबाइल:6263387601<br>
     ईमेल: __________
+  whatsApp Follow this link to join my WhatsApp group: https://chat.whatsapp.com/IMV78CmMzeSDSA4GxkfVlC 
   </p>
 </section>
 
