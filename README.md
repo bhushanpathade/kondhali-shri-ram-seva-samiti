@@ -2,7 +2,7 @@
 <html lang="hi">
 <head>
   <meta charset="UTF-8">
-  <title>कोंढाली श्री राम सेवा समिती</title>
+  <title> श्री राम सेवा समिती कोंढाली</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body { font-family: Arial, sans-serif; margin: 0; background:#f5f5f5; }
@@ -27,7 +27,7 @@
 <nav>
   <a href="#about">समिति परिचय</a>
   <a href="#members">सदस्य जानकारी</a>
-  <a href="#finance">लेन-देन</a>
+
   <a href="#contact">संपर्क</a>
 </nav>
 
@@ -51,19 +51,19 @@
     <tr>
       <td>1</td>
       <td>__________</td>
-      <td>अध्यक्ष</td>
+      <td> गोलू पठाडे अध्यक्ष</td>
       <td>__________</td>
     </tr>
     <tr>
       <td>2</td>
       <td>__________</td>
-      <td>सचिव</td>
+      <td> किशोर साहू सचिव</td>
       <td>__________</td>
     </tr>
     <tr>
       <td>3</td>
       <td>__________</td>
-      <td>कोषाध्यक्ष</td>
+      <td> शिवजी नागदे कोषाध्यक्ष</td>
       <td>__________</td>
     </tr>
   </table>
