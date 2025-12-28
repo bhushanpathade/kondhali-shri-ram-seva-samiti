@@ -147,7 +147,53 @@ img{
 <div class="container">
     <h2>चंदा ऑनलाइन भुगतान</h2>
 
-    <!-- QR CODE IMAGE -->
+    <!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <title>QR Payment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+            padding: 20px;
+        }
+        .qr-box {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        img {
+            max-width: 280px;
+            height: auto;
+        }
+        h2 {
+            margin-bottom: 10px;
+        }
+        p {
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="qr-box">
+        <h2>QR से भुगतान करें</h2>
+        <p>PhonePe / Google Pay / Paytm</p>
+
+        <!-- QR Image -->
+        <img src="qr.png" alt="QR Code">
+
+        <p>स्कैन करके भुगतान करें</p>
+    </div>
+
+</body>
+</html>
+    9284042281@axl
     <img src="qr.png" alt="UPI QR Code">
 
     <p class="note">
@@ -156,6 +202,7 @@ img{
 
     <p class="note">
         भुगतान के बाद स्क्रीनशॉट समिति को भेजें।
+        WhatsApp No.9284042281
     </p>
 </div>
 
